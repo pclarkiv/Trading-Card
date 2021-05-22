@@ -1,0 +1,37 @@
+html {
+  font-size: 10pt
+}
+#card {
+ width: 315px;
+ border: 1px solid lightgray;
+ box-shadow: 5px 10px lightgray;
+ padding: 10px;
+}
+.title {
+ font-size: 20pt;
+}
+
+.pic {
+ padding: 5px;
+}
+
+#card-information {
+ border: 1px solid lightgray;
+ margin: 5px;
+ padding: 5px;
+
+}
+
+.fact {
+ font-style: italic;
+ padding:5pt;
+}
+
+.list {
+ list-style: none;
+ padding: 5pt;
+}
+
+.label {
+font-weight: bold;
+}
